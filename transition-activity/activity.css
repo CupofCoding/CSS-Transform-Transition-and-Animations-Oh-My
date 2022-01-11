@@ -24,6 +24,11 @@ a {
   padding-right: 20px;
 }
 
+.caption p {
+  font-size: 1.3em;
+  text-align: center;
+}
+
 .caption div {
   position: absolute;
   display: inline-block;
